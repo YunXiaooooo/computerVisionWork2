@@ -1,0 +1,3 @@
+﻿  main.cpp
+E:\desktop\computerVision\transform2\main.cpp(77,49): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+  screw1.vcxproj -> E:\desktop\computerVision\transform2\x64\Debug\transform.exe
