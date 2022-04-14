@@ -1,4 +1,34 @@
 ﻿  main.cpp
-E:\desktop\computerVision\transform2\main.cpp(168,3): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
-E:\desktop\computerVision\transform2\main.cpp(188,3): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+E:\desktop\computerVision\transform2\main.cpp(62,3): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+E:\desktop\computerVision\transform2\main.cpp(72,31): warning C4244: “=”: 从“double”转换到“_Tp”，可能丢失数据
+          with
+          [
+              _Tp=float
+          ]
+E:\desktop\computerVision\transform2\main.cpp(73,31): warning C4244: “=”: 从“double”转换到“_Tp”，可能丢失数据
+          with
+          [
+              _Tp=float
+          ]
+E:\desktop\computerVision\transform2\main.cpp(82,3): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+E:\desktop\computerVision\transform2\main.cpp(92,31): warning C4244: “=”: 从“double”转换到“_Tp”，可能丢失数据
+          with
+          [
+              _Tp=float
+          ]
+E:\desktop\computerVision\transform2\main.cpp(93,31): warning C4244: “=”: 从“double”转换到“_Tp”，可能丢失数据
+          with
+          [
+              _Tp=float
+          ]
+E:\desktop\computerVision\transform2\main.cpp(189,35): warning C4244: “=”: 从“double”转换到“_Tp”，可能丢失数据
+          with
+          [
+              _Tp=float
+          ]
+E:\desktop\computerVision\transform2\main.cpp(190,35): warning C4244: “=”: 从“double”转换到“_Tp”，可能丢失数据
+          with
+          [
+              _Tp=float
+          ]
   screw1.vcxproj -> E:\desktop\computerVision\transform2\x64\Debug\transform.exe
