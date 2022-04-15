@@ -21,12 +21,12 @@ E:\desktop\computerVision\transform2\main.cpp(93,31): warning C4244: “=”: �
           [
               _Tp=float
           ]
-E:\desktop\computerVision\transform2\main.cpp(189,35): warning C4244: “=”: 从“double”转换到“_Tp”，可能丢失数据
+E:\desktop\computerVision\transform2\main.cpp(192,35): warning C4244: “=”: 从“double”转换到“_Tp”，可能丢失数据
           with
           [
               _Tp=float
           ]
-E:\desktop\computerVision\transform2\main.cpp(190,35): warning C4244: “=”: 从“double”转换到“_Tp”，可能丢失数据
+E:\desktop\computerVision\transform2\main.cpp(193,35): warning C4244: “=”: 从“double”转换到“_Tp”，可能丢失数据
           with
           [
               _Tp=float

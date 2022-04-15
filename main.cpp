@@ -103,6 +103,8 @@ int main()
 	cv::namedWindow("checkerboardTwoCornersTemp", 0);
 	cv::imshow("checkerboardOneCornersTemp", checkerboardOneCornersTemp);
 	cv::imshow("checkerboardTwoCornersTemp", checkerboardTwoCornersTemp);
+	cv::imwrite("checkerboardOneCornersTemp.jpg", checkerboardOneCornersTemp);
+	cv::imwrite("checkerboardTwoCornersTemp.jpg", checkerboardTwoCornersTemp);
 	//cv::waitKey(0);
 
 	myfile.open("./h.txt", std::ifstream::in);
@@ -124,6 +126,7 @@ int main()
 	cv::warpPerspective(checkerboardOne, wrapDst, warpmatrix, wrapDst.size(), cv::INTER_LINEAR);//Õ∂…‰±‰ªª
 	cv::namedWindow("wrapDst", 0);
 	cv::imshow("wrapDst", wrapDst);
+	cv::imwrite("wrapDst.jpg", wrapDst);
 	printMat(warpmatrix);
 
 
